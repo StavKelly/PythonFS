@@ -1,6 +1,6 @@
 # PythonFS
 
-Technical Interview Assignment:
+* Technical Interview Assignment:
 Objective
 ● Design and implement a Python client application that runs as a long-lived
 background service.
